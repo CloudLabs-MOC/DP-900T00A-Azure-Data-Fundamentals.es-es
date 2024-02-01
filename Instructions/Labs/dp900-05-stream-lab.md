@@ -1,9 +1,3 @@
----
-lab:
-  title: Exploración de Azure Stream Analytics
-  module: Explore fundamentals of real-time analytics
----
-
 # Exploración de Azure Stream Analytics
 
 En este ejercicio aprovisionará un trabajo de Azure Stream Analytics en su suscripción de Azure y lo usará para procesar un flujo de datos en tiempo real.
