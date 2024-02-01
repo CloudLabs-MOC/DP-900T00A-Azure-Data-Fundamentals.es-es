@@ -1,9 +1,3 @@
----
-lab:
-  title: Exploración del análisis de datos en Azure con Azure Synapse Analytics
-  module: Explore fundamentals of large-scale data warehousing
----
-
 # Exploración del análisis de datos en Azure con Azure Synapse Analytics
 
 En este ejercicio aprovisionará un área de trabajo de Azure Synapse Analytics en su suscripción de Azure y lo usará para ingerir y consultar datos.
