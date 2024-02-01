@@ -1,9 +1,3 @@
----
-lab:
-  title: Exploración de Azure SQL Database
-  module: Explore relational data in Azure
----
-
 # <a name="explore-azure-sql-database"></a>Exploración de Azure SQL Database
 
 En este ejercicio, aprovisionará un recurso de Azure SQL Database en la suscripción de Azure y, a continuación, usará SQL para consultar las tablas de una base de datos relacional.
