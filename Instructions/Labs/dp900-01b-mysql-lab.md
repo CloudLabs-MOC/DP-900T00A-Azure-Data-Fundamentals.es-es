@@ -1,9 +1,3 @@
----
-lab:
-  title: Exploración de Azure Database for MySQL
-  module: Explore relational data in Azure
----
-
 # Exploración de Azure Database for MySQL
 
 En este ejercicio, aprovisionará un recurso de Azure Database for MySQL en su suscripción de Azure.
