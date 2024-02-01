@@ -1,9 +1,3 @@
----
-lab:
-  title: Exploración de Azure Database for PostgreSQL
-  module: Explore relational data in Azure
----
-
 # Exploración de Azure Database for PostgreSQL
 
 En este ejercicio, aprovisionará un recurso de Azure Database for PostgreSQL en su suscripción de Azure.
