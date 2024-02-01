@@ -1,9 +1,3 @@
----
-lab:
-  title: Exploración de Data Explorer de Azure Synapse
-  module: Explore fundamentals of real-time analytics
----
-
 # Exploración de Data Explorer de Azure Synapse
 
 > **Nota**: Debido a los cambios en el producto, hay algunos problemas conocidos con la sección **Creación de una base de datos e ingesta de datos** de este laboratorio. Estamos trabajando para solucionar estos problemas.
