@@ -1,9 +1,3 @@
----
-lab:
-  title: Exploración de Spark Streaming en Azure Synapse Analytics
-  module: Explore fundamentals of real-time analytics
----
-
 # Exploración de Spark Streaming en Azure Synapse Analytics
 
 En este ejercicio, usará *Spark Structured Streaming* y *tablas delta* en Azure Synapse Analytics para procesar datos de flujos.
