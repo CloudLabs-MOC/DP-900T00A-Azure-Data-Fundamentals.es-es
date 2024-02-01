@@ -1,9 +1,3 @@
----
-lab:
-  title: "Exploración del análisis en tiempo real en Microsoft\_Fabric"
-  module: Explore fundamentals of large-scale data analytics
----
-
 # Exploración del análisis en tiempo real en Microsoft Fabric
 
 En este ejercicio, explorará el análisis en tiempo real en Microsoft Fabric.
