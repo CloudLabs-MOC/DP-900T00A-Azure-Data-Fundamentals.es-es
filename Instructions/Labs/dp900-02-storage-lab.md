@@ -1,9 +1,3 @@
----
-lab:
-  title: "Exploración de Azure\_Storage"
-  module: Explore Azure Storage for non-relational data
----
-
 # Exploración de Azure Storage
 
 En este ejercicio aprovisionará una cuenta de Azure Storage en su suscripción de Azure y explorará las distintas formas en que puede usarla para almacenar datos.
