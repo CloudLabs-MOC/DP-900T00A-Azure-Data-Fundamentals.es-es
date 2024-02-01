@@ -1,9 +1,3 @@
----
-lab:
-  title: "Exploración de análisis de datos en Microsoft\_Fabric"
-  module: Explore fundamentals of large-scale data analytics
----
-
 # Exploración de análisis de datos en Microsoft Fabric
 
 En este ejercicio, explorará la ingesta y el análisis de datos en un almacén de lago de Microsoft Fabric.
