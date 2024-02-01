@@ -17,39 +17,39 @@
         "Order": 3
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals.JA-JP/main/Instructions/Labs/LAB_04_explore_pim.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/DP-900T00A-Azure-Data-Fundamentals.es-es/prod/Instructions/Labs/dp900-02-storage-lab.md",
         "Order": 4
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals.JA-JP/main/Instructions/Labs/LAB_05_explore_nsg.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/DP-900T00A-Azure-Data-Fundamentals.es-es/prod/Instructions/Labs/dp900-03-cosmos-lab.md",
         "Order": 5
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals.JA-JP/main/Instructions/Labs/LAB_06_explore_defender_cloud.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/DP-900T00A-Azure-Data-Fundamentals.es-es/prod/Instructions/Labs/dp900-04-synapse-lab.md",
         "Order": 6
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals.JA-JP/main/Instructions/Labs/LAB_07_explore_sentinel.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/DP-900T00A-Azure-Data-Fundamentals.es-es/prod/Instructions/Labs/dp900-04b-fabric-lake-lab.md",
         "Order": 7
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals.JA-JP/main/Instructions/Labs/LAB_08_explore_defender_apps.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/DP-900T00A-Azure-Data-Fundamentals.es-es/prod/Instructions/Labs/dp900-05-stream-lab.md",
         "Order": 8
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals.JA-JP/main/Instructions/Labs/LAB_09_explore_m365_defender_portal.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/DP-900T00A-Azure-Data-Fundamentals.es-es/prod/Instructions/Labs/dp900-05a-stream-with-spark.md",
         "Order": 9
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals.JA-JP/main/Instructions/Labs/LAB_11_explore_service_trust_portal.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/DP-900T00A-Azure-Data-Fundamentals.es-es/prod/Instructions/Labs/dp900-05b-stream-synapse-data-explorer.md",
         "Order": 10
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals.JA-JP/main/Instructions/Labs/LAB_12_explore_compliance_mgr.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/DP-900T00A-Azure-Data-Fundamentals.es-es/prod/Instructions/Labs/dp900-05c-fabric-realtime-lab.md",
         "Order": 11
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals.JA-JP/main/Instructions/Labs/LAB_13_explore_senstivity_labels.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/DP-900T00A-Azure-Data-Fundamentals.es-es/prod/Instructions/Labs/dp900-pbi-06-lab.md",
         "Order": 12
       },
       {
