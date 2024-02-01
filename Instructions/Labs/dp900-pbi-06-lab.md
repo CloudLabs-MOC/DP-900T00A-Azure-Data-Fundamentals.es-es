@@ -1,9 +1,3 @@
----
-lab:
-  title: "Exploración de los aspectos básicos de la visualización de datos con Power\_BI"
-  module: Explore fundamentals of data visualization
----
-
 # Exploración de los aspectos básicos de la visualización de datos con Power BI
 
 En este ejercicio usará Microsoft Power BI Desktop para crear un modelo de datos y un informe que contenga visualizaciones de datos interactivas.
