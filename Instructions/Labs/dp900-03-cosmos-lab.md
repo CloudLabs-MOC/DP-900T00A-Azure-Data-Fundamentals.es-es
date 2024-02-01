@@ -1,8 +1,3 @@
----
-lab:
-  title: "Exploración de Azure Cosmos\_DB"
-  module: Explore fundamentals of Azure Cosmos DB
----
 # Exploración de Azure Cosmos DB
 
 En este ejercicio aprovisionará una base de datos de Azure Cosmos DB en su suscripción de Azure y explorará las distintas formas en que puede usarla para almacenar datos no relacionales.
