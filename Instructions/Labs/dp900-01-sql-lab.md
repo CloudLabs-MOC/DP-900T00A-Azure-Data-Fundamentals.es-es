@@ -4,10 +4,6 @@ En este ejercicio, aprovisionará un recurso de Azure SQL Database en la suscrip
 
 Este laboratorio se tarda aproximadamente **15** minutos en completarse.
 
-## <a name="before-you-start"></a>Antes de empezar
-
-Necesitará una [suscripción de Azure](https://azure.microsoft.com/free) en la que tenga acceso de nivel administrativo.
-
 ## <a name="provision-an-azure-sql-database-resource"></a>Aprovisionamiento de un recurso de Azure SQL Database
 
 1. En [Azure Portal](https://portal.azure.com?azure-portal=true), seleccione **&#65291; Crear un recurso** en la esquina superior izquierda y busque *Azure SQL*. En la página de **Azure SQL** que aparece, seleccione **Crear**.
