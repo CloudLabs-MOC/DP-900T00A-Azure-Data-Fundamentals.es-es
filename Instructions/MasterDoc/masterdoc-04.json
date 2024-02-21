@@ -1,1 +1,12 @@
-
+[
+  {
+    "Name": "Provision Azure relational database services",
+    "Language": "Spanish",
+    "Files": [
+     {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/DP-900T00A-Azure-Data-Fundamentals.es-es/blob/prod/Instructions/Labs/dp900-04-synapse-lab.md",
+       "Order": 1
+     }
+    ]
+  }
+]
