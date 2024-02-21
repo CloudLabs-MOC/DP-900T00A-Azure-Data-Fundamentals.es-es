@@ -4,10 +4,6 @@ En este ejercicio aprovisionará una base de datos de Azure Cosmos DB en su susc
 
 Este laboratorio se tarda aproximadamente **15** minutos en completarse.
 
-## Antes de empezar
-
-Necesitará una [suscripción de Azure](https://azure.microsoft.com/free) en la que tenga acceso de nivel administrativo.
-
 ## Creación de una cuenta de Cosmos DB
 
 Para usar Cosmos DB, debe aprovisionar una cuenta de Cosmos DB en su suscripción de Azure. En este ejercicio, aprovisionará una cuenta de Cosmos DB que usa Azure Cosmos DB for NoSQL.
