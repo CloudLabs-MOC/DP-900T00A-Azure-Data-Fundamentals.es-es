@@ -1,1 +1,12 @@
-
+[
+  {
+    "Name": "Provision Azure relational database services",
+    "Language": "Spanish",
+    "Files": [
+     {
+       "RawFilePath": "https://github.com/CloudLabs-MOC/DP-900T00A-Azure-Data-Fundamentals.es-es/blob/prod/Instructions/Labs/dp900-pbi-06-lab.md",
+       "Order": 1
+     }
+    ]
+  }
+]
