@@ -4,10 +4,6 @@ En este ejercicio aprovisionará un área de trabajo de Azure Synapse Analytics 
 
 Este laboratorio se tarda aproximadamente **30** minutos en completarse.
 
-## Antes de empezar
-
-Necesitará una [suscripción de Azure](https://azure.microsoft.com/free) en la que tenga acceso de nivel administrativo.
-
 ## Aprovisionar un área de trabajo de Azure Synapse Analytics
 
 Para usar Azure Synapse Analytics, debe aprovisionar un recurso en el área de trabajo de Azure Synapse Analytics en la suscripción de Azure.
