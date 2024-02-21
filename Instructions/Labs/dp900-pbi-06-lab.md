@@ -4,10 +4,6 @@ En este ejercicio usará Microsoft Power BI Desktop para crear un modelo de dato
 
 Este laboratorio se tarda aproximadamente **20** minutos en completarse.
 
-## Antes de empezar
-
-Necesitará una [suscripción de Azure](https://azure.microsoft.com/free) en la que tenga acceso de nivel administrativo.
-
 ### Instalar Power BI Desktop
 
 Si Microsoft Power BI Desktop no está instalado aún en el equipo de Windows, puede descargarlo e instalarlo de forma gratuita.
