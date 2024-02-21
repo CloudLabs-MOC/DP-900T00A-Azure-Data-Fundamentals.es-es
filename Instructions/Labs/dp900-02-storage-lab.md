@@ -4,10 +4,6 @@ En este ejercicio aprovisionará una cuenta de Azure Storage en su suscripción 
 
 Este laboratorio se tarda aproximadamente **15** minutos en completarse.
 
-## Antes de empezar
-
-Necesitará una [suscripción de Azure](https://azure.microsoft.com/free) en la que tenga acceso de nivel administrativo.
-
 ## Aprovisionamiento de una cuenta de Azure Storage
 
 El primer paso para usar Azure Storage es aprovisionar una cuenta de Azure Storage en su suscripción de Azure.
