@@ -4,10 +4,6 @@ En este ejercicio, usará *Spark Structured Streaming* y *tablas delta* en Azure
 
 Este laboratorio se tarda aproximadamente **15** minutos en completarse.
 
-## Antes de empezar
-
-Necesitará una [suscripción de Azure](https://azure.microsoft.com/free) en la que tenga acceso de nivel administrativo.
-
 ## Aprovisionar un área de trabajo de Synapse Analytics
 
 Para usar Synapse Analytics, debe aprovisionar un recurso en el área de trabajo de Synapse Analytics en la suscripción de Azure.
