@@ -4,10 +4,6 @@ En este ejercicio aprovisionará un trabajo de Azure Stream Analytics en su susc
 
 Este laboratorio se tarda aproximadamente **15** minutos en completarse.
 
-## Antes de empezar
-
-Necesitará una [suscripción de Azure](https://azure.microsoft.com/free) en la que tenga acceso de nivel administrativo.
-
 ## Creación de recursos de Azure
 
 1. Inicie sesión en la suscripción de Azure en [Azure Portal](https://portal.azure.com) con sus credenciales de suscripción de Azure.
