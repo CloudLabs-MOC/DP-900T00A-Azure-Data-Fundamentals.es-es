@@ -6,10 +6,6 @@ En este ejercicio, usará Azure Synapse Data Explorer para analizar datos de se
 
 Este laboratorio se tarda aproximadamente **25** minutos en completarse.
 
-## Antes de empezar
-
-Necesitará una [suscripción de Azure](https://azure.microsoft.com/free) en la que tenga acceso de nivel administrativo.
-
 ## Aprovisionar un área de trabajo de Synapse Analytics
 
 > **Sugerencia**: Si todavía tiene un área de trabajo de Azure Synapse de un ejercicio anterior, omita esta sección y vaya directamente a **[Creación de un grupo de Data Explorer](#create-a-data-explorer-pool)** .
