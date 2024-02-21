@@ -4,10 +4,6 @@ En este ejercicio, aprovisionará un recurso de Azure Database for MySQL en su s
 
 Este laboratorio se tarda aproximadamente **5** minutos en completarse.
 
-## Antes de empezar
-
-Necesitará una [suscripción de Azure](https://azure.microsoft.com/free) en la que tenga acceso de nivel administrativo.
-
 ## Aprovisionamiento de un recurso de Azure Database for MySQL
 
 En este ejercicio, aprovisionará un recurso de Azure Database for MySQL.
